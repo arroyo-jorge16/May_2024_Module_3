@@ -1,7 +1,7 @@
 
 # Import dataset
 import csv
-csvpath = "PyBank/resources/budget_data.csv"
+csvpath = "C:/Users/Jorge/OneDrive/Desktop/DSBootCamp/homework/ds_may2024_module_3_Python/May_2024_Module_3/PyBank/resources/budget_data.csv"
 
 # Find the total number of months in the dataset
 

@@ -1,3 +1,0 @@
-For the PyPoll challnge I had a much easier time figuring out where certain elements belong and how to arrange my variables beforehand.
-I also practiced holding my integers and being able to use that to create my logic later into the loop. What I want to work on is describing
-my logic next in the comments.

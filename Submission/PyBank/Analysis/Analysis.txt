@@ -1,3 +1,0 @@
-Learning python and the logic behind the result this time around was a bit easier. Each step made sense since you needed to build off of one step to get tp the next. The toughest part of this was achieving the greatest increase in profi and the greatest decrease in profit.
-Something I learned was that I need to use one for loop instead of opening the CSVreader everytime I am trying to refrence the file. In addition, just getting used to the different
-functions will help me down the line.

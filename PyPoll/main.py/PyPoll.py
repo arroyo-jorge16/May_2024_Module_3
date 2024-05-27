@@ -1,5 +1,5 @@
 import csv
-csvpath = "Starter_Code/PyPoll/Resources/election_data.csv"
+csvpath = "C:/Users/Jorge/OneDrive/Desktop/DSBootCamp/homework/ds_may2024_module_3_Python/May_2024_Module_3/PyPoll/Resources/election_data.csv"
 candidates = []
 candidate_count = 0
 vote_count = 0
